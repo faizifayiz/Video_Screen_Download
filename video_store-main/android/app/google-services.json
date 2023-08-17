@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658354002860",
+    "project_id": "lilac-project-6f7d2",
+    "storage_bucket": "lilac-project-6f7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658354002860:android:32a71c7d70b39b8813b809",
+        "android_client_info": {
+          "package_name": "com.example.video_downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658354002860-kgc715c961o278v610eb6t3q2bdkbb26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVOcbYKb_Nrqz47Rt50cHL4N8oSa-U1Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658354002860-kgc715c961o278v610eb6t3q2bdkbb26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
